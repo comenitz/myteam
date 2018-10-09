@@ -1,5 +1,7 @@
 h1 {
-    color: yellow
+    color: yellow;
+    font-weight: bold;
+    border-color: black;
 }
     .navbar-light .navbar-brand{
     color: yellow
