@@ -1,0 +1,22 @@
+h1 {
+    color: yellow
+}
+    .navbar-light .navbar-brand{
+    color: yellow
+}
+
+tr {
+    color: yellow
+}
+.jumbotron {
+    background-image: url(tdgarden.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.logo {height: 150px;}
+
+
+body {
+    background-color: black;
+}
